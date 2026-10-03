@@ -21,7 +21,7 @@ BrightMart is a fictional retail dataset (SQL Server) with 2 fact tables and 4 d
 |------|------|--------------|
 | 1 | [`01_data_analysis_eda.sql`](queries/01_data_analysis_eda.sql) | Checks every table for NULLs, duplicates, invalid IDs and inconsistent text |
 | 2 | [`02_data_cleaning.sql`](queries/02_data_cleaning.sql) | Removes invalid records and duplicate rows |
-| 3 | [`03_create_views_upd.sql`](03_create_views_upd.sql) | Views with new `_upd` columns for standardised values |
+| 3 | [`03_create_views_upd.sql`](queries/03_create_views_upd.sql) | Views with new `_upd` columns for standardised values |
 
 ## Data Quality Issue Log
 
