@@ -1,0 +1,25 @@
+﻿StoreID,StoreName,City,State,Region,StoreType,OpeningDate
+1,BrightMart Hyderabad,Hyderabad,Telangana,South,Offline,2020-07-09
+2,BrightMart Bengaluru,Bengaluru,Karnataka,South,Offline,2020-06-25
+3,BrightMart Chennai,Chennai,Tamil Nadu,South,Offline,2021-05-27
+4,BrightMart Kochi,Kochi,Kerala,South,Offline,2023-07-26
+5,BrightMart Coimbatore,Coimbatore,Tamil Nadu,South,Offline,2023-03-25
+6,BrightMart Mumbai,Mumbai,Maharashtra,West,Offline,2020-05-23
+7,BrightMart Pune,Pune,Maharashtra,West,Offline,2021-12-12
+8,BrightMart Ahmedabad,Ahmedabad,Gujarat,West,Offline,2022-12-08
+9,BrightMart Surat,Surat,Gujarat,West,Offline,2023-03-22
+10,BrightMart Nagpur,Nagpur,Maharashtra,West,Offline,2021-06-02
+11,BrightMart Delhi,Delhi,Delhi,North,Offline,2021-07-27
+12,BrightMart Jaipur,Jaipur,Rajasthan,North,Offline,2020-03-22
+13,BrightMart Lucknow,Lucknow,Uttar Pradesh,North,Offline,2019-11-06
+14,BrightMart Chandigarh,Chandigarh,Punjab,North,Offline,2019-05-10
+15,BrightMart Dehradun,Dehradun,Uttarakhand,North,Offline,2022-08-21
+16,BrightMart Kolkata,Kolkata,West Bengal,East,Offline,2023-06-23
+17,BrightMart Bhubaneswar,Bhubaneswar,Odisha,East,Offline,2021-01-19
+18,BrightMart Patna,Patna,Bihar,East,Offline,2020-10-09
+19,BrightMart Guwahati,Guwahati,Assam,East,Offline,2019-07-03
+20,BrightMart Ranchi,Ranchi,Jharkhand,East,Offline,2023-09-04
+21,BrightMart Online - North,N/A,N/A,North,Online,2020-08-25
+22,BrightMart Online - South,N/A,N/A,South,Online,2020-05-07
+23,BrightMart Online - East,N/A,N/A,East,Online,2020-09-19
+24,BrightMart Online - West,N/A,N/A,West,Online,2020-06-17

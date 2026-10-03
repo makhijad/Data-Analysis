@@ -1,0 +1,41 @@
+﻿EmployeeID,EmployeeName,Region,Designation,ManagerID,HireDate,Email
+1,Karan Pillai,North,Regional Manager,,2021-10-01,karan.pillai@brightmart.com
+2,Vivaan Singh,South,Regional Manager,,2021-08-14,vivaan.singh@brightmart.com
+3,Deepak Verma,East,Regional Manager,,2021-06-14,deepak.verma@brightmart.com
+4,Zoya Shetty,West,Regional Manager,,2021-11-14,zoya.shetty@brightmart.com
+5,Sai Verma,North,Store Manager,1,2022-05-09,sai.verma@brightmart.com
+6,Navya Sharma,North,Store Manager,1,2022-11-07,navya.sharma@brightmart.com
+7,Rohan Shetty,South,Store Manager,2,2022-08-09,rohan.shetty@brightmart.com
+8,Vikram Rao,South,Store Manager,2,2022-03-06,vikram.rao@brightmart.com
+9,Rohan Iyer,East,Store Manager,3,2022-07-28,rohan.iyer@brightmart.com
+10,Karan Pillai,East,Store Manager,3,2022-03-16,karan.pillai@brightmart.com
+11,Aditya Nair,West,Store Manager,4,2022-02-19,aditya.nair@brightmart.com
+12,Sunita Kapoor,West,Store Manager,4,2022-09-04,sunita.kapoor@brightmart.com
+13,Priya Singh,North,Sales Executive,6,2023-01-03,priya.singh@brightmart.com
+14,Rahul Verma,East,Senior Sales Executive,9,2023-05-18,rahul.verma@brightmart.com
+15,Neha Mehta,West,Sales Executive,12,2023-11-05,neha.mehta@brightmart.com
+16,Priya Patel,East,Sales Executive,10,2023-09-20,priya.patel@brightmart.com
+17,Rohan Rao,North,Sales Executive,5,2023-10-20,rohan.rao@brightmart.com
+18,Ananya Gupta,East,Sales Executive,10,2023-01-28,ananya.gupta@brightmart.com
+19,Sai Joshi,East,Senior Sales Executive,10,2023-02-18,sai.joshi@brightmart.com
+20,Ananya Bhat,North,Sales Executive,6,2023-01-10,ananya.bhat@brightmart.com
+21,Pari Verma,East,Sales Executive,10,2023-11-02,pari.verma@brightmart.com
+22,Neha Mehta,West,Sales Executive,12,2023-01-27,neha.mehta@brightmart.com
+23,Saanvi Reddy,East,Sales Executive,10,2023-02-27,saanvi.reddy@brightmart.com
+24,Vihaan Chatterjee,East,Senior Sales Executive,10,2023-03-11,vihaan.chatterjee@brightmart.com
+25,Anjali Gupta,South,Senior Sales Executive,8,2023-07-05,anjali.gupta@brightmart.com
+26,Manoj Reddy,West,Senior Sales Executive,12,2023-07-03,manoj.reddy@brightmart.com
+27,Amit Gupta,East,Sales Executive,10,2023-04-10,amit.gupta@brightmart.com
+28,Aarav Nair,West,Sales Executive,12,2023-12-07,aarav.nair@brightmart.com
+29,Saanvi Nair,West,Senior Sales Executive,12,2023-05-05,saanvi.nair@brightmart.com
+30,Aarav Rao,West,Sales Executive,12,2023-10-02,aarav.rao@brightmart.com
+31,Kavita Gupta,South,Sales Executive,8,2023-08-27,kavita.gupta@brightmart.com
+32,Manoj Mehta,East,Sales Executive,9,2023-09-06,manoj.mehta@brightmart.com
+33,Suresh Sharma,East,Sales Executive,9,2023-05-13,suresh.sharma@brightmart.com
+34,Vihaan Menon,East,Sales Executive,9,2023-05-20,vihaan.menon@brightmart.com
+35,Divya Nair,East,Sales Executive,10,2023-11-16,divya.nair@brightmart.com
+36,Krishna Shetty,East,Sales Executive,9,2023-04-11,krishna.shetty@brightmart.com
+37,Sunita Gupta,North,Sales Executive,6,2023-10-27,sunita.gupta@brightmart.com
+38,Arjun Das,East,Sales Executive,10,2023-09-26,arjun.das@brightmart.com
+39,Neha Reddy,East,Sales Executive,10,2023-08-08,neha.reddy@brightmart.com
+40,Zoya Chatterjee,East,Sales Executive,9,2023-01-01,zoya.chatterjee@brightmart.com
