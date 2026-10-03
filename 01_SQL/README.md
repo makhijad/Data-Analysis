@@ -44,9 +44,9 @@ BrightMart is a fictional retail dataset (SQL Server) with 2 fact tables and 4 d
 **Status key:** Fixed = cleaned in `02_data_cleaning.sql` | View = standardised in views | Open = waiting for confirmation | OK = no issue.
 
 ## Key Findings
-- [Number of invalid Sales rows removed: 380]
-- [Number of NULL UnitPrice rows: 72]
-- [Inconsistent casing in category columns]
+- Number of invalid Sales rows removed: 380
+- Number of NULL UnitPrice rows: 72
+- Inconsistent casing in category columns
 
 ## Screenshots
 Before / after results are in the [`screenshots`](screenshots/) folder.
