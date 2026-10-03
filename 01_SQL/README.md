@@ -1,3 +1,15 @@
+## Business Questions Solved
+
+| # | Business question | Approach | Key insight |
+|---|-------------------|----------|-------------|
+| 1 | Who are our top-spending customers? | CTE + RANK() | [add result] |
+| 2 | Which categories drive the highest profit margin? | CTE + aggregation | [add result] |
+| 3 | What do monthly sales trends look like? | YEAR/MONTH grouping | [add result] |
+| 4 | Which cities outperform average order value? | CTEs + CROSS JOIN | [add result] |
+| 5 | What is the average order value by segment? | JOIN + GROUP BY | [add result] |
+
+Queries: [`04_business_analysis.sql`](queries/04_business_analysis.sql)
+
 # SQL - EDA & Data Cleaning
 
 ## Objective
